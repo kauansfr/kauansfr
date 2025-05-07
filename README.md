@@ -1,7 +1,7 @@
 <p align="center" >
 <a href="https://github.com/kauansfr">
 <img width="50%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=kauansfr&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true&hide=stars"/>
-<img width="46%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kauansfr&layout=compact&langs_count=7&theme=highcontrast"/>
+<img width="40%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kauansfr&layout=compact&langs_count=7&theme=highcontrast"/>
 </p>
 
 <h1 align="center">Olá, seja bem vindo! 🙌</h1>
