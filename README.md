@@ -7,7 +7,7 @@
 <h1 align="center">Olá, seja bem vindo! 🙌</h1>
 
 <p align="center">
-<h3>Desenvolvedor Full-Stack Java | Angular | Spring Boot | AWS | RabbitMQ | Github Actions </h3>
+<h3>Desenvolvedor Full-Stack Junior Java | Angular | Spring Boot | AWS | RabbitMQ | Github Actions </h3>
 </p>
 
 <strong>Sobre Mim</strong>
