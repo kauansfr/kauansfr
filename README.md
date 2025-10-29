@@ -7,14 +7,16 @@
 <h1 align="center">Olá, seja bem vindo! 🙌</h1>
 
 <p align="center">
-<h3>Desenvolvedor Full-Stack | Angular | RxJS | Signals | React | Java | Spring Boot | Docker</h3>
+<h3>Desenvolvedor Full-Stack Java | Angular | Spring Boot | AWS | RabbitMQ | Github Actions </h3>
 </p>
 
 <strong>Sobre Mim</strong>
 <br>
-Sou um desenvolvedor de software com mentalidade de crescimento e grande interesse em engenharia de software moderna. Acredito no aprendizado contínuo, tendo como objetivo a escrita de códigos limpos e a construção de soluções escaláveis e sustentáveis.
+Atuo como Desenvolvedor Fullstack Junior na Stefanini Brasil (Cliente: Toyota), uma das principais consultorias de TI na América Latina, utilizando Java Spring Boot e Angular (RxJS e Signals).
 
-Atualmente, sou Estagiário de Front-End na Stefanini, uma das maiores consultorias de TI da América Latina. Trabalho principalmente com Angular, RxJS e Signals, e atuei anteriormente na função de QA, contribuindo para a melhoria da qualidade das entregas com testes funcionais e automatizados em Java.
+Antes disso, em 1 ano de experiência como estagiário, desempenhei como Q&A, colaborando para assegurar entregas de alto nível e participando ativamente das apresentações de funcionalidades em Sprints; como Frontend Angular, desenvolvendo componentes reativos usando RxJS e Signals. E por fim, como Backend Java, me aprofundando mais em APIs Rest.
+
+Paralelamente às responsabilidades na Stefanini, sou integrante da Azenith Solutions uma organização acadêmica voltada para soluções web. Atuo integralmente no projeto para a Hardwaretech, onde construímos sob contrato, toda a documentação com artefatos e seguimos a metodologia Scrum com sprints e entregas reais cultivando o profissionalismo. Desempenho tanto no back-end em Java (Spring Boot, RabbitMQ, Microserviços, JPA, MySQL) quanto no front-end em JavaScript (React, Axios, Services) e na Arquitetura em Redes (Docker, Github Actions, AWS Services), além de atuar ativamente em discussões como elicitação de requisitos, regras de negócio, UX/UI e arquitetura do sistema.
 
 <div style="display: inline_block"><br>
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
